@@ -1,0 +1,2 @@
+wait("0.2")
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itzmeJ56L/Power-full-universal-script-made-by-itzJ56/e0560d2ba8f9c0d822361e08ad5e70dff334227e/New%20gun%20game%20script%20made%20by%20itzmeJ56"))()
